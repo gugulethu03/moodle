@@ -21,7 +21,7 @@ $CFG->dboptions = array (
 //$CFG->dataroot  = getenv('DATAROOT');
 //$CFG->admin     = 'admin';
 
-$CFG->wwwroot   = 'https://thuto.herokuapp.com/';
+$CFG->wwwroot   = 'http://thuto.herokuapp.com/';
 $CFG->dataroot  = '/var/moodledata';
 $CFG->admin     = 'admin';
 
