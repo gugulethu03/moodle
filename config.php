@@ -22,7 +22,7 @@ $CFG->dboptions = array (
 //$CFG->admin     = 'admin';
 
 $CFG->wwwroot   = 'http://thuto.herokuapp.com/';
-$CFG->dataroot  = '/var/moodledata';
+$CFG->dataroot  = '/tmp';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
